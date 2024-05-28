@@ -7,7 +7,6 @@
         <a href="https://youtube.com/@sL_Code_HuB?si=c6Gt4TW4xBhjLSdz"><img
                 src="https://cdn-icons-png.flaticon.com/128/3938/3938037.png" alt="youtube" width="50"></a>
     </ul>
-    <br /><br />
 </header>
 <br /><br />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
